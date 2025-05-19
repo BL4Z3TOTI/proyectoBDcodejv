@@ -20,3 +20,4 @@ def suma_columnas(nombre_archivo):
     return sumas_columnas
 resultado_columnas = suma_columnas('datos1.txt')
 print(resultado_columnas)
+print("hola como estan")
