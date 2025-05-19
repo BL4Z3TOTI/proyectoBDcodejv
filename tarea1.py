@@ -19,5 +19,5 @@ def suma_columnas(nombre_archivo):
     sumas_columnas = [sum(col) for col in columnas]
     return sumas_columnas
 resultado_columnas = suma_columnas('datos1.txt')
-print("hola mundo")
-print("Las columnas son: "resultado_columnas)
+print(resultado_columnas)
+print("hola como estan")
